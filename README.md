@@ -1,4 +1,4 @@
-# [Interactive Art With p5.js][published url]
+# [How to Program Interactive Art With p5.js][published url]
 ## Instructor: [Stuart Memo][instructor url]
 
 
@@ -18,9 +18,9 @@ There are only 3 files used in this course. A basic HTML file that references th
 The included `p5.js` library is licensed under the GNU Lesser General Public License (LGPL). 
 ------
 
-These are source files for the Tuts+ course: [Interactive Art With p5.js][published url]
+These are source files for the Tuts+ course: [How to Program Interactive Art With p5.js][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/interactive-art-with-p5js
+[published url]: https://code.tutsplus.com/courses/how-to-program-interactive-art-with-p5js
 [instructor url]: https://tutsplus.com/authors/stuart-memo
